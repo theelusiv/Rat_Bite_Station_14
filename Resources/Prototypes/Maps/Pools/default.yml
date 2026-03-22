@@ -55,7 +55,7 @@
   - Atlas
   - Amber
   - Bagel
-  - Box
+#  - Box - Ratbite - not supported
   - Cluster
   - Core
 #  - Fland
@@ -65,12 +65,12 @@
 #  - Meta
  # - Oasis
   - Omega
-  - Origin
+#  - Origin - Ratbite - not supported
   - Saltern
   - Packed
   - Reach # Goobstation, removed from map pool
   #- Train # Goobstation - all my friends hate train
-  - FlandHighPop
+  #- FlandHighPop # Ratbite - Unmaintained
   - OasisHighPop
   - Barratry # Goobstation - Re-add barratry
   - Kettle # Goobstation - Re-add kettle (before it was gemini!)
